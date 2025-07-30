@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:cake/layer2",
-  "textures": {
-    "0": "custom/purple",
-    "particle": "custom/purple"
-  }
-}
