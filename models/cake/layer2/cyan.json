@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:cake/layer2",
+  "textures": {
+    "0": "custom/cyan",
+    "particle": "custom/cyan"
+  }
+}

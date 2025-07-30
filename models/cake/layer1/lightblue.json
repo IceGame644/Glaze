@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:cake/layer1",
+  "textures": {
+    "0": "custom/lightblue",
+    "particle": "custom/lightblue"
+  }
+}
