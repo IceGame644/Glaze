@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "custom/cakebase",
-		"particle": "custom/cakebase"
+		"0": "custom/white",
+		"particle": "custom/white"
 	},
 	"elements": [
 		{

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:cake/layer3",
+  "textures": {
+    "0": "custom/brown",
+    "particle": "custom/brown"
+  }
+}
